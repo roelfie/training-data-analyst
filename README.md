@@ -1,6 +1,8 @@
 # Apache Beam example (python)
 
-(https://github.com/roelfie/training-data-analyst/blob/master/courses/developingapps/demos/gs2ds/gs2ds.py)
+The following script is used in the Datastore / Dataflow demo from the Google Cloud training 'Getting Started with Application Development' on Coursera: 
+
+https://github.com/roelfie/training-data-analyst/blob/master/courses/developingapps/demos/gs2ds/gs2ds.py
 
 # training-data-analyst 
 
