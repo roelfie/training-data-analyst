@@ -1,12 +1,11 @@
 # Materials used in 'Getting started with Application Development' on Coursera
 
-## Section 3: Apache Beam QwikLab (python) 
-
-https://github.com/roelfie/training-data-analyst/blob/master/courses/developingapps/demos/gs2ds/gs2ds.py
-
-## Section 4: Cloud Datastore demo (Node.js)
-
-https://github.com/roelfie/training-data-analyst/tree/master/courses/developingapps/nodejs/datastore/start
+* Section 3: Apache Beam (python) 
+  * https://github.com/roelfie/training-data-analyst/blob/master/courses/developingapps/demos/gs2ds/gs2ds.py
+* Section 4: Cloud Datastore (Node.js)
+  * https://github.com/roelfie/training-data-analyst/tree/master/courses/developingapps/nodejs/datastore/
+* Section 5: Cloud Storage (Node.js)
+  * https://github.com/roelfie/training-data-analyst/tree/master/courses/developingapps/nodejs/cloudstorage
 
 
 # training-data-analyst 
