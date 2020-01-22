@@ -1,4 +1,4 @@
-# Materials used in 'Getting started with Application Development' on Coursera
+# Materials for 'Getting started with Application Development'
 
 * Section 3: Apache Beam (python) 
   * https://github.com/roelfie/training-data-analyst/blob/master/courses/developingapps/demos/gs2ds/gs2ds.py
