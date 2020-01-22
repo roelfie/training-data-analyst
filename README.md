@@ -1,8 +1,13 @@
-# Apache Beam example (python)
+# Materials used in 'Getting started with Application Development' on Coursera
 
-The following script is used in the Datastore / Dataflow demo from the Google Cloud training 'Getting Started with Application Development' on Coursera: 
+## Section 3: Apache Beam QwikLab (python) 
 
 https://github.com/roelfie/training-data-analyst/blob/master/courses/developingapps/demos/gs2ds/gs2ds.py
+
+## Section 4: Cloud Datastore demo (Node.js)
+
+https://github.com/roelfie/training-data-analyst/tree/master/courses/developingapps/nodejs/datastore/start
+
 
 # training-data-analyst 
 
